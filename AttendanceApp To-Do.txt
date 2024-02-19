@@ -1,0 +1,4 @@
+AttendanceApp To-Do:
+- Design Scanner Page
+- Set up QR scanner
+-etc.
