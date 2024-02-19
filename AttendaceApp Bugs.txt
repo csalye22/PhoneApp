@@ -1,0 +1,4 @@
+Known Bugs:
+- Error: if either text boxes are empty, but only if no text has been previously entered
+	Fix: Add Text="" to MainPage.xaml - Labels
+- 
