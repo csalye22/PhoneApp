@@ -6,9 +6,8 @@ NON-SPECIFIC:
 - An instructor will be able to send a message to a student's app; look into how this would work (will have to work with the Desktop team)
 
 SPECIFIC:
-- LOGIN PAGE: Create a concrete page that kinda becomes the default page after a user has logged in (Will have a navigation menu to switch between other pages such as 
-	the Semester page or the Scanner page.) This will allow the user to navigate easily w/o having to login every time they want to switch pages.
 - SCANNER PAGE: Integrate camera 
-- SCANNER PAGE: Add pop up box when a Barcode is scanned (Either confirming that the barcode has been scanned or that the scan failed followed by the reason for failure, 	whether is the incorrect day/time, incorrect barcode,etc.)
-- SEMESTER PAGE: Somehow create/integrate an attendance record
+- SCANNER PAGE: Add pop up box when a Barcode is scanned (Either confirming that the barcode has been scanned or that the scan failed followed by the reason for failure, 
+	whether is the incorrect day/time, incorrect barcode,etc.)
+- SEMESTER PAGE: Integrate an attendance record (Will be created by Desktop-Team)
 - Add comments to parts of the code that may seem vague/hard to understand
