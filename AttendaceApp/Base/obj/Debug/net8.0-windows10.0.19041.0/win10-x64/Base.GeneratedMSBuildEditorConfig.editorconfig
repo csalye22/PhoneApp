@@ -8,47 +8,47 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Base
-build_property.ProjectDir = C:\Users\csalye22\source\repos\AttendaceApp\Base\
+build_property.ProjectDir = C:\Users\garbe\source\repos\PhoneApp-main\PhoneApp-main\AttendaceApp\Base\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 
-[C:/Users/csalye22/source/repos/AttendaceApp/Base/App.xaml]
+[C:/Users/garbe/source/repos/PhoneApp-main/PhoneApp-main/AttendaceApp/Base/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Base.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[C:/Users/csalye22/source/repos/AttendaceApp/Base/AppShell.xaml]
+[C:/Users/garbe/source/repos/PhoneApp-main/PhoneApp-main/AttendaceApp/Base/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Base.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[C:/Users/csalye22/source/repos/AttendaceApp/Base/LoginPage.xaml]
+[C:/Users/garbe/source/repos/PhoneApp-main/PhoneApp-main/AttendaceApp/Base/LoginPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Base.LoginPage.xaml
 build_metadata.AdditionalFiles.TargetPath = LoginPage.xaml
 build_metadata.AdditionalFiles.RelativePath = LoginPage.xaml
 
-[C:/Users/csalye22/source/repos/AttendaceApp/Base/Resources/Styles/Colors.xaml]
+[C:/Users/garbe/source/repos/PhoneApp-main/PhoneApp-main/AttendaceApp/Base/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Base.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
-[C:/Users/csalye22/source/repos/AttendaceApp/Base/Resources/Styles/Styles.xaml]
+[C:/Users/garbe/source/repos/PhoneApp-main/PhoneApp-main/AttendaceApp/Base/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Base.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
 
-[C:/Users/csalye22/source/repos/AttendaceApp/Base/ScannerPage.xaml]
+[C:/Users/garbe/source/repos/PhoneApp-main/PhoneApp-main/AttendaceApp/Base/ScannerPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Base.ScannerPage.xaml
 build_metadata.AdditionalFiles.TargetPath = ScannerPage.xaml
 build_metadata.AdditionalFiles.RelativePath = ScannerPage.xaml
 
-[C:/Users/csalye22/source/repos/AttendaceApp/Base/SemesterPage.xaml]
+[C:/Users/garbe/source/repos/PhoneApp-main/PhoneApp-main/AttendaceApp/Base/SemesterPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Base.SemesterPage.xaml
 build_metadata.AdditionalFiles.TargetPath = SemesterPage.xaml

@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:zxing="clr-namespace:ZXing.Net.Maui.Controls;assembly=ZXing.Net.MAUI.Controls"
              x:Class="Base.ScannerPage"
              Title="ScannerPage">
+    
     <StackLayout
         Orientation="Vertical"
         Padding="30,0"
@@ -19,13 +21,23 @@
 
         <Label 
             Text="Scan Barcode to Register Attendance"
+            Padding="0, 0, 0, 10"
             Style="{StaticResource SubHeadline}"
             SemanticProperties.HeadingLevel="Level1" />
 
-        <Image
-            Source="camera_placeholder.png"
-            HeightRequest="185"
-            Aspect="AspectFit"/>
+        <zxing:CameraBarcodeReaderView
+            x:Name="CameraBarcodeReaderView"
+            BarcodesDetected="CameraBarcodeReaderView_BarcodesDetected"
+            WidthRequest="200"
+            HeightRequest="200" />
+
+        <Label
+            x:Name="barcodeContents"
+            FontSize="24"
+            Padding="0, 10, 0, 0"
+            Text="Show barcode contents here"
+            SemanticProperties.HeadingLevel="Level2"
+            HorizontalOptions="Center" />
 
         <Button
             Text="Back" Clicked="btnBack_Clicked"/>

@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ghutchi2\\source\\repos\\PhoneApp-main\\AttendaceApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A35F0D25-9D38-4BD3-8F8C-BFDF02EEB245}|Base\\Base.csproj|c:\\users\\ghutchi2\\source\\repos\\phoneapp-main\\attendaceapp\\base\\scannerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A35F0D25-9D38-4BD3-8F8C-BFDF02EEB245}|Base\\Base.csproj|solutionrelative:base\\scannerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A35F0D25-9D38-4BD3-8F8C-BFDF02EEB245}|Base\\Base.csproj|c:\\users\\ghutchi2\\source\\repos\\phoneapp-main\\attendaceapp\\base\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A35F0D25-9D38-4BD3-8F8C-BFDF02EEB245}|Base\\Base.csproj|solutionrelative:base\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A35F0D25-9D38-4BD3-8F8C-BFDF02EEB245}|Base\\Base.csproj|c:\\users\\ghutchi2\\source\\repos\\phoneapp-main\\attendaceapp\\base\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A35F0D25-9D38-4BD3-8F8C-BFDF02EEB245}|Base\\Base.csproj|solutionrelative:base\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A35F0D25-9D38-4BD3-8F8C-BFDF02EEB245}|Base\\Base.csproj|c:\\users\\ghutchi2\\source\\repos\\phoneapp-main\\attendaceapp\\base\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A35F0D25-9D38-4BD3-8F8C-BFDF02EEB245}|Base\\Base.csproj|solutionrelative:base\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A35F0D25-9D38-4BD3-8F8C-BFDF02EEB245}|Base\\Base.csproj|c:\\users\\ghutchi2\\source\\repos\\phoneapp-main\\attendaceapp\\base\\scannerpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A35F0D25-9D38-4BD3-8F8C-BFDF02EEB245}|Base\\Base.csproj|solutionrelative:base\\scannerpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\ghutchi2\\source\\repos\\PhoneApp-main\\AttendaceApp\\Base\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "Base\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\ghutchi2\\source\\repos\\PhoneApp-main\\AttendaceApp\\Base\\MauiProgram.cs",
+              "RelativeToolTip": "Base\\MauiProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T16:50:06.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\ghutchi2\\source\\repos\\PhoneApp-main\\AttendaceApp\\Base\\AppShell.xaml",
+              "RelativeDocumentMoniker": "Base\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\ghutchi2\\source\\repos\\PhoneApp-main\\AttendaceApp\\Base\\AppShell.xaml",
+              "RelativeToolTip": "Base\\AppShell.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-28T16:40:07.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\ghutchi2\\source\\repos\\PhoneApp-main\\AttendaceApp\\Base\\App.xaml",
+              "RelativeDocumentMoniker": "Base\\App.xaml",
+              "ToolTip": "C:\\Users\\ghutchi2\\source\\repos\\PhoneApp-main\\AttendaceApp\\Base\\App.xaml",
+              "RelativeToolTip": "Base\\App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-28T16:39:54.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ScannerPage.xaml",
+              "DocumentMoniker": "C:\\Users\\ghutchi2\\source\\repos\\PhoneApp-main\\AttendaceApp\\Base\\ScannerPage.xaml",
+              "RelativeDocumentMoniker": "Base\\ScannerPage.xaml",
+              "ToolTip": "C:\\Users\\ghutchi2\\source\\repos\\PhoneApp-main\\AttendaceApp\\Base\\ScannerPage.xaml",
+              "RelativeToolTip": "Base\\ScannerPage.xaml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-28T16:03:15.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ScannerPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ghutchi2\\source\\repos\\PhoneApp-main\\AttendaceApp\\Base\\ScannerPage.xaml.cs",
+              "RelativeDocumentMoniker": "Base\\ScannerPage.xaml.cs",
+              "ToolTip": "C:\\Users\\ghutchi2\\source\\repos\\PhoneApp-main\\AttendaceApp\\Base\\ScannerPage.xaml.cs",
+              "RelativeToolTip": "Base\\ScannerPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T16:03:10.807Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

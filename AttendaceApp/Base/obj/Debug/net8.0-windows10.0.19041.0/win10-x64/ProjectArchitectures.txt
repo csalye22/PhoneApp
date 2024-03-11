@@ -1,0 +1,1 @@
+C:\Users\ghutchi2\source\repos\PhoneApp-main\AttendaceApp\Base\Base.csproj;x64
