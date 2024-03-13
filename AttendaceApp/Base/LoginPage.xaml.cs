@@ -20,13 +20,9 @@
             lbltempPassword.Text = txtPassword.Text.Trim();
         }
         //Navigation Bar
-        private void navScanner_Clicked(object sender, EventArgs e)
+        private void navNavigation_Clicked(object sender, EventArgs e)
         {
-            Navigation.PushModalAsync(new ScannerPage());
-        }
-        private void navSemester_Clicked(object sender, EventArgs e)
-        {
-            Navigation.PushModalAsync(new SemesterPage());
+            Navigation.PushModalAsync(new NavigationPage());
         }
     }
 

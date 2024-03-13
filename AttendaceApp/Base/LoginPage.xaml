@@ -5,65 +5,63 @@
              Shell.NavBarIsVisible="True">
     
     <ContentPage.ToolbarItems> <!--Toolbar is here just to be able to easily switch between and test pages;will probably not be in final vers-->
-        <ToolbarItem Text="Scanner Page" Order="Secondary" Clicked="navScanner_Clicked"/>
-        <ToolbarItem Text="Semester Page" Order="Secondary" Clicked="navSemester_Clicked"/>
+        <ToolbarItem Text="Navigation Page" Order="Primary" Clicked="navNavigation_Clicked"/>
     </ContentPage.ToolbarItems>
 
-    <ScrollView>
-        <StackLayout
+    <StackLayout
             Orientation="Vertical"
             Padding="30,0"
             Spacing="25">
-            <Image
+        <Image
                 Source="northeast_logo.png"
                 HeightRequest="185"
                 Aspect="AspectFit"/>
 
-            <Label
+        <Label
                 Text="Attendance Sign-In"
                 Style="{StaticResource Headline}"
                 SemanticProperties.HeadingLevel="Level1" />
 
 
-            <!--Username Properties-->
-            <Label 
+        <!--Username Properties-->
+        <Label 
                 x:Name="lblUsername"
                 Text="Username"
                 Style="{StaticResource SubHeadline}"
                 SemanticProperties.HeadingLevel="Level1" />
-            
-            <StackLayout 
+
+        <StackLayout 
                 Orientation="Horizontal" 
                 HorizontalOptions="Center"
                 Margin="-35">
-                <Entry 
+            <Entry 
                     x:Name="txtUsername" 
                     Placeholder="Username" 
                     Margin="5"
                     />
-            </StackLayout>
-            
-            
-            <!--Password Properties-->
-            <Label 
+        </StackLayout>
+
+
+        <!--Password Properties-->
+        <Label 
                 x:Name="lblPassword"
                 Text="Password"
                 Style="{StaticResource SubHeadline}"
                 SemanticProperties.HeadingLevel="Level1" />
- 
-            <StackLayout 
+
+        <StackLayout 
                 Orientation="Horizontal" 
                 HorizontalOptions="Center"
                 Margin="-35">
-                <Entry 
+            <Entry 
                     x:Name="txtPassword" 
                     Placeholder="Password" 
                     Margin="5"
                     IsPassword="True"/>
-            </StackLayout>
+        </StackLayout>
 
-            
-            <Button
+
+        <Button
                 x:Name="btnSubmit"
                 Text="Submit" 
                 Clicked="btnSubmit_Clicked"
@@ -71,21 +69,20 @@
                 BackgroundColor="LightSeaGreen"
                 Margin="20"
                 FontSize="17"/>
-            
-            
-            
-            
-            <!--temp labels to test input fields; will instead be transferred to database instead of being printed to the page-->
-            <Label
+
+
+
+
+        <!--temp labels to test input fields; will instead be transferred to database instead of being printed to the page-->
+        <Label
                 Padding="0,20,0,0"
                 HorizontalOptions="Center"
                 x:Name="lbltempUsername"
                 Text="entered username"/>
-            <Label
+        <Label
                 HorizontalOptions="Center"
                 x:Name="lbltempPassword"
-                Text="entered password"/>   
-        </StackLayout>
-    </ScrollView>
+                Text="entered password"/>
+    </StackLayout>
 
 </ContentPage>

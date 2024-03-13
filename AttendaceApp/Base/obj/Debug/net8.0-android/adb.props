@@ -1,2 +1,2 @@
-AdbTarget=-s R92W70PJRLW
+AdbTarget=-s emulator-5554
 AdbOptions=
