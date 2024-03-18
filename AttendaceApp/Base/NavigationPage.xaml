@@ -34,6 +34,14 @@
             BackgroundColor="LightSeaGreen"
             Margin="20"
             FontSize="17"/>
+        <Button
+            x:Name="btnInbox"
+            Text="Inbox" 
+            Clicked="btnInbox_Clicked"
+            HorizontalOptions="Fill"
+            BackgroundColor="LightSeaGreen"
+            Margin="20"
+            FontSize="17"/>
 
         <Button
             Text="Back" Clicked="btnBack_Clicked"/>

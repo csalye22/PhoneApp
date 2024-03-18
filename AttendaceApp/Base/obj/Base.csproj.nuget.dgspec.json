@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\csalye22\\Downloads\\PhoneApp-main\\PhoneApp-main\\AttendaceApp\\Base\\Base.csproj": {}
+    "C:\\Users\\garbe\\source\\repos\\PhoneApp\\AttendaceApp\\Base\\Base.csproj": {}
   },
   "projects": {
-    "C:\\Users\\csalye22\\Downloads\\PhoneApp-main\\PhoneApp-main\\AttendaceApp\\Base\\Base.csproj": {
+    "C:\\Users\\garbe\\source\\repos\\PhoneApp\\AttendaceApp\\Base\\Base.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\csalye22\\Downloads\\PhoneApp-main\\PhoneApp-main\\AttendaceApp\\Base\\Base.csproj",
+        "projectUniqueName": "C:\\Users\\garbe\\source\\repos\\PhoneApp\\AttendaceApp\\Base\\Base.csproj",
         "projectName": "Base",
-        "projectPath": "C:\\Users\\csalye22\\Downloads\\PhoneApp-main\\PhoneApp-main\\AttendaceApp\\Base\\Base.csproj",
-        "packagesPath": "C:\\Users\\csalye22\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\csalye22\\Downloads\\PhoneApp-main\\PhoneApp-main\\AttendaceApp\\Base\\obj\\",
+        "projectPath": "C:\\Users\\garbe\\source\\repos\\PhoneApp\\AttendaceApp\\Base\\Base.csproj",
+        "packagesPath": "C:\\Users\\garbe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\garbe\\source\\repos\\PhoneApp\\AttendaceApp\\Base\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\csalye22\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\garbe\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

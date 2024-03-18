@@ -1,0 +1,1 @@
+C:\Users\garbe\source\repos\PhoneApp\AttendaceApp\Base\Base.csproj;x64

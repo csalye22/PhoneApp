@@ -40,7 +40,9 @@
             HorizontalOptions="Center" />
 
         <Button
-            Text="Back" Clicked="btnBack_Clicked"/>
+            x:Name="btnBack"
+            Text="Back" 
+            Clicked="btnBack_Clicked"/>
         
     </StackLayout>
 </ContentPage>

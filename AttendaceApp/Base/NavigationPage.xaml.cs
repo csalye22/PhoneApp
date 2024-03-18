@@ -14,6 +14,10 @@ public partial class NavigationPage : ContentPage
     {
         Navigation.PushModalAsync(new SemesterPage());
     }
+    private void btnInbox_Clicked(object sender, EventArgs e)
+    {
+        Navigation.PushModalAsync(new InboxPage());
+    }
     private void btnBack_Clicked(object sender, EventArgs e) /*Returns you back a page*/
     {
         Navigation.PopModalAsync();

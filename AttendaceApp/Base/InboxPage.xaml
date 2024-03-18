@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Base.InboxPage"
+             Title="InboxPage">
+    <VerticalStackLayout>
+        <Image
+            Source="northeast_logo.png"
+            HeightRequest="185"
+            Aspect="AspectFit"/>
+        <Label
+            Text="Inbox"
+            Style="{StaticResource Headline}"
+            SemanticProperties.HeadingLevel="Level1" 
+            Padding="30"/>
+        <Button
+            x:Name="btnBack"
+            Text="Back" 
+            Clicked="btnBack_Clicked"
+            HorizontalOptions="Fill"
+            BackgroundColor="LightSeaGreen"
+            Margin="20"
+            FontSize="17"/>
+    </VerticalStackLayout>
+</ContentPage>
