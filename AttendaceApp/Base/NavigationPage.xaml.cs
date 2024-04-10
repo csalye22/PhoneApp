@@ -22,4 +22,5 @@ public partial class NavigationPage : ContentPage
     {
         Navigation.PopModalAsync();
     }
+
 }

@@ -8,18 +8,19 @@
             Source="northeast_logo.png"
             HeightRequest="185"
             Aspect="AspectFit"/>
+
         <Label
-            Text="Inbox"
+            Text="Inbox Page"
             Style="{StaticResource Headline}"
-            SemanticProperties.HeadingLevel="Level1" 
-            Padding="30"/>
+            SemanticProperties.HeadingLevel="Level1" />
+
         <Button
-            x:Name="btnBack"
-            Text="Back" 
-            Clicked="btnBack_Clicked"
+            x:Name= "btnBack"
             HorizontalOptions="Fill"
             BackgroundColor="LightSeaGreen"
             Margin="20"
-            FontSize="17"/>
+            FontSize="17"
+            Text="Back" 
+            Clicked="btnBack_Clicked" />
     </VerticalStackLayout>
 </ContentPage>

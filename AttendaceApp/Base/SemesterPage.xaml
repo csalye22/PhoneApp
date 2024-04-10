@@ -23,7 +23,22 @@
             SemanticProperties.HeadingLevel="Level1" />
 
         <Button
-            Text="Back" Clicked="btnBack_Clicked"/>
+            x:Name="btnAttendance"
+            Text="Get All Attendance" 
+            HorizontalOptions="Fill"
+            BackgroundColor="LightSeaGreen"
+            Margin="20"
+            FontSize="17"
+            Clicked="btnAttendance_Clicked"/>
+
+        <Button
+            x:Name="btnBack"
+            Text="Back" 
+            HorizontalOptions="Fill"
+            BackgroundColor="LightSeaGreen"
+            Margin="20"
+            FontSize="17"
+            Clicked="btnBack_Clicked"/>
 
     </StackLayout>
 </ContentPage>

@@ -42,9 +42,14 @@
             BackgroundColor="LightSeaGreen"
             Margin="20"
             FontSize="17"/>
-
         <Button
-            Text="Back" Clicked="btnBack_Clicked"/>
+            x:Name="btnBack"
+            Text="Back" 
+            HorizontalOptions="Fill"
+            BackgroundColor="LightSeaGreen"
+            Margin="20"
+            FontSize="17"
+            Clicked="btnBack_Clicked"/>
 
     </StackLayout>
 </ContentPage>
