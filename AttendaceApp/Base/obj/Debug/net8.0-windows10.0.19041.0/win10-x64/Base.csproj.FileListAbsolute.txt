@@ -154,7 +154,6 @@ C:\Users\garbe\source\repos\PhoneApp\AttendaceApp\Base\obj\Debug\net8.0-windows1
 C:\Users\garbe\source\repos\PhoneApp\AttendaceApp\Base\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Base.csproj.CoreCompileInputs.cache
 C:\Users\garbe\source\repos\PhoneApp\AttendaceApp\Base\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Base.sourcelink.json
 C:\Users\garbe\source\repos\PhoneApp\AttendaceApp\Base\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlC.stamp
-C:\Users\garbe\source\repos\PhoneApp\AttendaceApp\Base\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Base.csproj.CopyComplete
 C:\Users\garbe\source\repos\PhoneApp\AttendaceApp\Base\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Base.dll
 C:\Users\garbe\source\repos\PhoneApp\AttendaceApp\Base\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\refint\Base.dll
 C:\Users\garbe\source\repos\PhoneApp\AttendaceApp\Base\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Base.pdb
@@ -354,3 +353,5 @@ C:\Users\lbachman\Desktop\PhoneApp\AttendaceApp\Base\obj\Debug\net8.0-windows10.
 C:\Users\lbachman\Desktop\PhoneApp\AttendaceApp\Base\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 C:\Users\lbachman\Desktop\PhoneApp\AttendaceApp\Base\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
 C:\Users\lbachman\Desktop\PhoneApp\AttendaceApp\Base\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+C:\Users\garbe\source\repos\PhoneApp\AttendaceApp\Base\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Newtonsoft.Json.dll
+C:\Users\garbe\source\repos\PhoneApp\AttendaceApp\Base\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Base.csproj.Up2Date

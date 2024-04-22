@@ -3,36 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\garbe\\source\\repos\\PhoneApp\\AttendaceApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A35F0D25-9D38-4BD3-8F8C-BFDF02EEB245}|Base\\Base.csproj|c:\\users\\garbe\\source\\repos\\phoneapp\\attendaceapp\\base\\services\\attendanceapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A35F0D25-9D38-4BD3-8F8C-BFDF02EEB245}|Base\\Base.csproj|solutionrelative:base\\services\\attendanceapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A35F0D25-9D38-4BD3-8F8C-BFDF02EEB245}|Base\\Base.csproj|c:\\users\\garbe\\source\\repos\\phoneapp\\attendaceapp\\base\\semesterpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{A35F0D25-9D38-4BD3-8F8C-BFDF02EEB245}|Base\\Base.csproj|solutionrelative:base\\semesterpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A35F0D25-9D38-4BD3-8F8C-BFDF02EEB245}|Base\\Base.csproj|c:\\users\\garbe\\source\\repos\\phoneapp\\attendaceapp\\base\\semesterpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A35F0D25-9D38-4BD3-8F8C-BFDF02EEB245}|Base\\Base.csproj|solutionrelative:base\\semesterpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A35F0D25-9D38-4BD3-8F8C-BFDF02EEB245}|Base\\Base.csproj|c:\\users\\garbe\\source\\repos\\phoneapp\\attendaceapp\\base\\navigationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A35F0D25-9D38-4BD3-8F8C-BFDF02EEB245}|Base\\Base.csproj|solutionrelative:base\\navigationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A35F0D25-9D38-4BD3-8F8C-BFDF02EEB245}|Base\\Base.csproj|c:\\users\\garbe\\source\\repos\\phoneapp\\attendaceapp\\base\\navigationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{A35F0D25-9D38-4BD3-8F8C-BFDF02EEB245}|Base\\Base.csproj|solutionrelative:base\\navigationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A35F0D25-9D38-4BD3-8F8C-BFDF02EEB245}|Base\\Base.csproj|c:\\users\\garbe\\source\\repos\\phoneapp\\attendaceapp\\base\\inboxpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{A35F0D25-9D38-4BD3-8F8C-BFDF02EEB245}|Base\\Base.csproj|solutionrelative:base\\inboxpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A35F0D25-9D38-4BD3-8F8C-BFDF02EEB245}|Base\\Base.csproj|c:\\users\\garbe\\source\\repos\\phoneapp\\attendaceapp\\base\\attendancepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A35F0D25-9D38-4BD3-8F8C-BFDF02EEB245}|Base\\Base.csproj|solutionrelative:base\\attendancepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A35F0D25-9D38-4BD3-8F8C-BFDF02EEB245}|Base\\Base.csproj|c:\\users\\garbe\\source\\repos\\phoneapp\\attendaceapp\\base\\attendancepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{A35F0D25-9D38-4BD3-8F8C-BFDF02EEB245}|Base\\Base.csproj|solutionrelative:base\\attendancepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A35F0D25-9D38-4BD3-8F8C-BFDF02EEB245}|Base\\Base.csproj|c:\\users\\garbe\\source\\repos\\phoneapp\\attendaceapp\\base\\services\\attendanceapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A35F0D25-9D38-4BD3-8F8C-BFDF02EEB245}|Base\\Base.csproj|solutionrelative:base\\services\\attendanceapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A35F0D25-9D38-4BD3-8F8C-BFDF02EEB245}|Base\\Base.csproj|c:\\users\\garbe\\source\\repos\\phoneapp\\attendaceapp\\base\\attendancepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A35F0D25-9D38-4BD3-8F8C-BFDF02EEB245}|Base\\Base.csproj|solutionrelative:base\\attendancepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A35F0D25-9D38-4BD3-8F8C-BFDF02EEB245}|Base\\Base.csproj|c:\\users\\garbe\\source\\repos\\phoneapp\\attendaceapp\\base\\models\\attendancemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A35F0D25-9D38-4BD3-8F8C-BFDF02EEB245}|Base\\Base.csproj|solutionrelative:base\\models\\attendancemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A35F0D25-9D38-4BD3-8F8C-BFDF02EEB245}|Base\\Base.csproj|c:\\users\\garbe\\source\\repos\\phoneapp\\attendaceapp\\base\\base.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A35F0D25-9D38-4BD3-8F8C-BFDF02EEB245}|Base\\Base.csproj|solutionrelative:base\\base.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A35F0D25-9D38-4BD3-8F8C-BFDF02EEB245}|Base\\Base.csproj|c:\\users\\garbe\\source\\repos\\phoneapp\\attendaceapp\\base\\navigationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A35F0D25-9D38-4BD3-8F8C-BFDF02EEB245}|Base\\Base.csproj|solutionrelative:base\\navigationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A35F0D25-9D38-4BD3-8F8C-BFDF02EEB245}|Base\\Base.csproj|c:\\users\\garbe\\source\\repos\\phoneapp\\attendaceapp\\base\\semesterpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A35F0D25-9D38-4BD3-8F8C-BFDF02EEB245}|Base\\Base.csproj|solutionrelative:base\\semesterpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A35F0D25-9D38-4BD3-8F8C-BFDF02EEB245}|Base\\Base.csproj|c:\\users\\garbe\\source\\repos\\phoneapp\\attendaceapp\\base\\inboxpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A35F0D25-9D38-4BD3-8F8C-BFDF02EEB245}|Base\\Base.csproj|solutionrelative:base\\inboxpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -45,12 +49,98 @@
           "SelectedChildIndex": 2,
           "Children": [
             {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NavigationPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\garbe\\source\\repos\\PhoneApp\\AttendaceApp\\Base\\NavigationPage.xaml.cs",
+              "RelativeDocumentMoniker": "Base\\NavigationPage.xaml.cs",
+              "ToolTip": "C:\\Users\\garbe\\source\\repos\\PhoneApp\\AttendaceApp\\Base\\NavigationPage.xaml.cs",
+              "RelativeToolTip": "Base\\NavigationPage.xaml.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAA5wAoAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T17:25:27.641Z",
+              "IsPinned": true
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AttendanceAPI.cs",
+              "DocumentMoniker": "C:\\Users\\garbe\\source\\repos\\PhoneApp\\AttendaceApp\\Base\\Services\\AttendanceAPI.cs",
+              "RelativeDocumentMoniker": "Base\\Services\\AttendanceAPI.cs",
+              "ToolTip": "C:\\Users\\garbe\\source\\repos\\PhoneApp\\AttendaceApp\\Base\\Services\\AttendanceAPI.cs",
+              "RelativeToolTip": "Base\\Services\\AttendanceAPI.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T14:55:09.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AttendancePage.xaml",
+              "DocumentMoniker": "C:\\Users\\garbe\\source\\repos\\PhoneApp\\AttendaceApp\\Base\\AttendancePage.xaml",
+              "RelativeDocumentMoniker": "Base\\AttendancePage.xaml",
+              "ToolTip": "C:\\Users\\garbe\\source\\repos\\PhoneApp\\AttendaceApp\\Base\\AttendancePage.xaml",
+              "RelativeToolTip": "Base\\AttendancePage.xaml",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAACgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-22T14:50:56.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AttendancePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\garbe\\source\\repos\\PhoneApp\\AttendaceApp\\Base\\AttendancePage.xaml.cs",
+              "RelativeDocumentMoniker": "Base\\AttendancePage.xaml.cs",
+              "ToolTip": "C:\\Users\\garbe\\source\\repos\\PhoneApp\\AttendaceApp\\Base\\AttendancePage.xaml.cs",
+              "RelativeToolTip": "Base\\AttendancePage.xaml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAQwBQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T17:23:34.459Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "SemesterPage.xaml",
+              "DocumentMoniker": "C:\\Users\\garbe\\source\\repos\\PhoneApp\\AttendaceApp\\Base\\SemesterPage.xaml",
+              "RelativeDocumentMoniker": "Base\\SemesterPage.xaml",
+              "ToolTip": "C:\\Users\\garbe\\source\\repos\\PhoneApp\\AttendaceApp\\Base\\SemesterPage.xaml",
+              "RelativeToolTip": "Base\\SemesterPage.xaml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB0AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-22T14:50:37.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AttendanceModel.cs",
+              "DocumentMoniker": "C:\\Users\\garbe\\source\\repos\\PhoneApp\\AttendaceApp\\Base\\Models\\AttendanceModel.cs",
+              "RelativeDocumentMoniker": "Base\\Models\\AttendanceModel.cs",
+              "ToolTip": "C:\\Users\\garbe\\source\\repos\\PhoneApp\\AttendaceApp\\Base\\Models\\AttendanceModel.cs",
+              "RelativeToolTip": "Base\\Models\\AttendanceModel.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAA5wCMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T14:48:38.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Base.csproj",
+              "DocumentMoniker": "C:\\Users\\garbe\\source\\repos\\PhoneApp\\AttendaceApp\\Base\\Base.csproj",
+              "RelativeDocumentMoniker": "Base\\Base.csproj",
+              "ToolTip": "C:\\Users\\garbe\\source\\repos\\PhoneApp\\AttendaceApp\\Base\\Base.csproj",
+              "RelativeToolTip": "Base\\Base.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-22T14:48:09.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "SemesterPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\garbe\\source\\repos\\PhoneApp\\AttendaceApp\\Base\\SemesterPage.xaml.cs",
               "RelativeDocumentMoniker": "Base\\SemesterPage.xaml.cs",
@@ -58,51 +148,11 @@
               "RelativeToolTip": "Base\\SemesterPage.xaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-10T17:26:01.134Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-10T17:26:01.134Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SemesterPage.xaml",
-              "DocumentMoniker": "C:\\Users\\garbe\\source\\repos\\PhoneApp\\AttendaceApp\\Base\\SemesterPage.xaml",
-              "RelativeDocumentMoniker": "Base\\SemesterPage.xaml",
-              "ToolTip": "C:\\Users\\garbe\\source\\repos\\PhoneApp\\AttendaceApp\\Base\\SemesterPage.xaml",
-              "RelativeToolTip": "Base\\SemesterPage.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-04-10T17:25:37.004Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "NavigationPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\garbe\\source\\repos\\PhoneApp\\AttendaceApp\\Base\\NavigationPage.xaml.cs",
-              "RelativeDocumentMoniker": "Base\\NavigationPage.xaml.cs",
-              "ToolTip": "C:\\Users\\garbe\\source\\repos\\PhoneApp\\AttendaceApp\\Base\\NavigationPage.xaml.cs",
-              "RelativeToolTip": "Base\\NavigationPage.xaml.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAswBkAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-10T17:25:27.641Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "NavigationPage.xaml",
-              "DocumentMoniker": "C:\\Users\\garbe\\source\\repos\\PhoneApp\\AttendaceApp\\Base\\NavigationPage.xaml",
-              "RelativeDocumentMoniker": "Base\\NavigationPage.xaml",
-              "ToolTip": "C:\\Users\\garbe\\source\\repos\\PhoneApp\\AttendaceApp\\Base\\NavigationPage.xaml",
-              "RelativeToolTip": "Base\\NavigationPage.xaml",
-              "ViewState": "AQIAACoAAAAAAAAAAAAswDYAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-04-10T17:25:01.95Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "InboxPage.xaml",
               "DocumentMoniker": "C:\\Users\\garbe\\source\\repos\\PhoneApp\\AttendaceApp\\Base\\InboxPage.xaml",
               "RelativeDocumentMoniker": "Base\\InboxPage.xaml",
@@ -110,47 +160,7 @@
               "RelativeToolTip": "Base\\InboxPage.xaml",
               "ViewState": "AQIAAAcAAAAAAAAAAAAswBkAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-04-10T17:24:46.358Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AttendancePage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\garbe\\source\\repos\\PhoneApp\\AttendaceApp\\Base\\AttendancePage.xaml.cs",
-              "RelativeDocumentMoniker": "Base\\AttendancePage.xaml.cs",
-              "ToolTip": "C:\\Users\\garbe\\source\\repos\\PhoneApp\\AttendaceApp\\Base\\AttendancePage.xaml.cs",
-              "RelativeToolTip": "Base\\AttendancePage.xaml.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAQwBcAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-10T17:23:34.459Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AttendancePage.xaml",
-              "DocumentMoniker": "C:\\Users\\garbe\\source\\repos\\PhoneApp\\AttendaceApp\\Base\\AttendancePage.xaml",
-              "RelativeDocumentMoniker": "Base\\AttendancePage.xaml",
-              "ToolTip": "C:\\Users\\garbe\\source\\repos\\PhoneApp\\AttendaceApp\\Base\\AttendancePage.xaml",
-              "RelativeToolTip": "Base\\AttendancePage.xaml",
-              "ViewState": "AQIAABgAAAAAAAAAAAAswDAAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-04-10T17:23:38.414Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AttendanceAPI.cs",
-              "DocumentMoniker": "C:\\Users\\garbe\\source\\repos\\PhoneApp\\AttendaceApp\\Base\\Services\\AttendanceAPI.cs",
-              "RelativeDocumentMoniker": "Base\\Services\\AttendanceAPI.cs",
-              "ToolTip": "C:\\Users\\garbe\\source\\repos\\PhoneApp\\AttendaceApp\\Base\\Services\\AttendanceAPI.cs",
-              "RelativeToolTip": "Base\\Services\\AttendanceAPI.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAALAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-10T17:23:18.241Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-10T17:24:46.358Z"
             }
           ]
         },

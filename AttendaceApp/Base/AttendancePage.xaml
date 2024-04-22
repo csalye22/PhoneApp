@@ -35,8 +35,26 @@
                 Text="Attendance Date"
                 HorizontalOptions="Center"/>
 
-            <Button
+            <Label
+                x:Name="response"
+                Grid.Column="0"
                 Grid.Row="2"
+                HorizontalOptions="Center"/>
+
+            <Label
+                Grid.Column="1"
+                Grid.Row="2"
+                Text="null"
+                HorizontalOptions="Center"/>
+
+            <Label
+                Grid.Column="2"
+                Grid.Row="2"
+                Text="null"
+                HorizontalOptions="Center"/>
+
+            <Button
+                Grid.Row="3"
                 Grid.ColumnSpan="3"
                 x:Name="btnBack"
                 Text="Back"
