@@ -5,7 +5,7 @@ namespace Base.Models
     public class AttendanceModel
     {
         // Root myDeserializedClass = JsonSerializer.Deserialize<Root>(myJsonResponse);
-        public class Root
+        public class Root : AttendanceModel
         {
             [JsonPropertyName("$id")]
             public string id { get; set; }
@@ -14,7 +14,7 @@ namespace Base.Models
             public List<Value> values { get; set; }
         }
 
-        public class Value
+        public class Value : AttendanceModel
         {
             [JsonPropertyName("$id")]
             public string id { get; set; }

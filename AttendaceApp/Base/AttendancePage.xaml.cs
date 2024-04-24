@@ -1,28 +1,62 @@
+using System;
+using System.Collections.ObjectModel;
+using System.Net.Http;
 using Base.Services;
-namespace Base;
+using Newtonsoft.Json;
+using Microsoft.Maui.Controls;
+using System.Diagnostics;
 
-public partial class AttendancePage : ContentPage
+namespace Base
 {
-    public AttendancePage()
+    public partial class AttendancePage : ContentPage
     {
-        InitializeComponent();
-    }
-    protected override void OnAppearing()
-    {
-        base.OnAppearing();
-        GetAttendance();
-    }
+        private const string uuid = "uuid1";
+        private const string apiUrl = $"https://localhost:7167/api/Attends/by-id2/{uuid}";
 
-    // SQL server pass: 110494
-    private async void GetAttendance()
-    {
-        AttendanceAPI api = new AttendanceAPI();
-        var results = await api.GetAttendance();
-        Console.Write(results.ToString());
-    }
+        public ObservableCollection<AttendanceRecord> AttendanceRecords { get; set; }
 
-    private void btnBack_Clicked(object sender, EventArgs e)
-    {
-        Navigation.PopModalAsync();
+        public AttendancePage()
+        {
+            InitializeComponent();
+            AttendanceRecords = new ObservableCollection<AttendanceRecord>();
+            FetchAndDisplayData();
+        }
+
+        private async void FetchAndDisplayData()
+        {
+            try
+            {
+                using (HttpClient client = new HttpClient())
+                {
+                    HttpResponseMessage response = await client.GetAsync(apiUrl);
+                    if (response.IsSuccessStatusCode)
+                    {
+                        string json = await response.Content.ReadAsStringAsync();
+                        var records = JsonConvert.DeserializeObject<List<AttendanceRecord>>(json);
+                        foreach (var record in records)
+                        {
+                            AttendanceRecords.Add(record);
+                            Debug.WriteLine(record);
+                        }
+                        attendanceListView.ItemsSource = AttendanceRecords;
+                    }
+                    else
+                    {
+                        // Handle unsuccessful response
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                // Handle exception
+                Console.WriteLine("Error: " + ex.Message);
+            }
+        }
+
+
+        private void btnBack_Clicked(object sender, EventArgs e)
+        {
+            Navigation.PopModalAsync();
+        }
     }
 }
