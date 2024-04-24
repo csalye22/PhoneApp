@@ -1,16 +1,12 @@
-using System;
-using System.Collections.ObjectModel;
-using System.Net.Http;
-using Base.Services;
 using Newtonsoft.Json;
-using Microsoft.Maui.Controls;
+using System.Collections.ObjectModel;
 using System.Diagnostics;
 
 namespace Base
 {
     public partial class AttendancePage : ContentPage
     {
-        private const string uuid = "uuid1";
+        private const string uuid = "uuid7";
         private const string apiUrl = $"https://localhost:7167/api/Attends/by-id2/{uuid}";
 
         public ObservableCollection<AttendanceRecord> AttendanceRecords { get; set; }

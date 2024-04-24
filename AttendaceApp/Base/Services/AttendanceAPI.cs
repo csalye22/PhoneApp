@@ -1,4 +1,6 @@
-﻿using Newtonsoft.Json;
+﻿using Base.Models;
+using Newtonsoft.Json;
+using System.Text;
 using static Base.Models.AttendanceModel;
 namespace Base.Services
 {
@@ -7,7 +9,7 @@ namespace Base.Services
         public async Task<Value> GetAttendance()
         {
             var httpClient = new HttpClient();
-            var studentUuid = "uuid1";
+            var studentUuid = "uuid7";
             string url = $"https://localhost:7167/api/Attends/by-id2/{studentUuid}";
             var jsonResponse = await httpClient.GetStringAsync(url);
 
@@ -16,11 +18,15 @@ namespace Base.Services
             return attends;
         }
 
-        //public async Task<Attendance> PostAttendance(string response)
-        //{
-        //    var httpClient = new HttpClient();
-        //    string url = "https://localhost:7167/api/Attends/studentpost";
-        //    var jsonData = response;
-        //}
+        public static async Task<HttpResponseMessage> PostAttendance(AttendRecord data)
+        {
+            var httpClient = new HttpClient();
+            string url = "https://localhost:7167/api/Attends/studentpost";
+            string jsonData = JsonConvert.SerializeObject(data);
+            var request = new HttpRequestMessage(HttpMethod.Post, url);
+            request.Content = new StringContent(jsonData, Encoding.UTF8, "application/json");
+            HttpResponseMessage response = await httpClient.SendAsync(request);
+            return response;
+        }
     }
 }

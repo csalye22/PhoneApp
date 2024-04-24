@@ -31,6 +31,7 @@
             WidthRequest="200"
             HeightRequest="200" />
 
+        <!-- Remove from final release -->
         <Label
             x:Name="barcodeContents"
             FontSize="24"

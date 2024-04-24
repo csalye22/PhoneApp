@@ -18,7 +18,7 @@
 
             <Label Text="Attendance Record"
                    FontSize="24"
-                   TextColor="DarkBlue"
+                   TextColor="#1689db"
                    HorizontalOptions="CenterAndExpand"
                    VerticalOptions="Center" />
         </StackLayout>
@@ -43,7 +43,6 @@
                                 <Grid.ColumnDefinitions>
                                     <ColumnDefinition Width="*" />
                                     <ColumnDefinition Width="*" />
-                                    <ColumnDefinition Width="*" />
                                 </Grid.ColumnDefinitions>
                                 <!-- Column Labels -->
                                 <!--<Label Text="Student UUID"
@@ -54,13 +53,13 @@
                                        HorizontalOptions="Center" />-->
                                 <Label Text="Class ID"
                                        Grid.Row="0"
-                                       Grid.Column="1"
+                                       Grid.Column="0"
                                        FontSize="18"
                                        TextColor="DarkGray"
                                        HorizontalOptions="Center" />
                                 <Label Text="Attendance Date"
                                        Grid.Row="0"
-                                       Grid.Column="2"
+                                       Grid.Column="1"
                                        FontSize="18"
                                        TextColor="DarkGray"
                                        HorizontalOptions="Center" />
@@ -74,13 +73,13 @@
                                        HorizontalOptions="Center" />-->
                                 <Label Text="{Binding ClassId}"
                                        Grid.Row="1"
-                                       Grid.Column="1"
+                                       Grid.Column="0"
                                        FontSize="16"
                                        TextColor="Black"
                                        HorizontalOptions="Center" />
                                 <Label Text="{Binding AttendanceDate, StringFormat='{0:yyyy-MM-dd HH:mm:ss}'}"
                                        Grid.Row="1"
-                                       Grid.Column="2"
+                                       Grid.Column="1"
                                        FontSize="16"
                                        TextColor="Black"
                                        HorizontalOptions="Center" />
@@ -89,7 +88,7 @@
                                 <BoxView Color="DarkGray"
                                          Grid.Row="3"
                                          Grid.Column="0"
-                                         Grid.ColumnSpan="2"
+                                         Grid.ColumnSpan="3"
                                          HeightRequest="1"
                                          HorizontalOptions="FillAndExpand" />
                             </Grid>
