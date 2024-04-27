@@ -6,8 +6,9 @@ namespace Base
 {
     public partial class AttendancePage : ContentPage
     {
-        private const string uuid = "uuid7";
-        private const string apiUrl = $"https://localhost:7167/api/Attends/by-id2/{uuid}";
+        
+
+        private const string apiUrl = "https://localhost:7167/api/Attends/by-id2/";
 
         public ObservableCollection<AttendanceRecord> AttendanceRecords { get; set; }
 
@@ -15,7 +16,7 @@ namespace Base
         {
             InitializeComponent();
             AttendanceRecords = new ObservableCollection<AttendanceRecord>();
-            FetchAndDisplayData();
+            FetchAndDisplayData();  
         }
 
         private async void FetchAndDisplayData()
@@ -24,7 +25,9 @@ namespace Base
             {
                 using (HttpClient client = new HttpClient())
                 {
-                    HttpResponseMessage response = await client.GetAsync(apiUrl);
+                    string uuid = Preferences.Get("uuid", "");
+                    HttpResponseMessage response = await client.GetAsync(apiUrl + uuid);
+                    
                     if (response.IsSuccessStatusCode)
                     {
                         string json = await response.Content.ReadAsStringAsync();
@@ -38,13 +41,13 @@ namespace Base
                     }
                     else
                     {
-                        // Handle unsuccessful response
+                        
                     }
                 }
             }
             catch (Exception ex)
             {
-                // Handle exception
+                
                 Console.WriteLine("Error: " + ex.Message);
             }
         }
